@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LargestTwice {
+public class DominantIndex {
 
     public static int dominantIndex(int[] nums) {
         int largest = Integer.MIN_VALUE;
